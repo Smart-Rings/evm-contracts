@@ -1,8 +1,8 @@
-# Cross Ring Protocol - Contracts
+# Smart Rings Protocol - Contracts
 
 ## Overview
 
-The Cross Ring Protocol - Contracts repository houses the Solidity contracts essential for the operation of the Cross Ring Protocol. These contracts are integral to the functioning of the protocol, providing various capabilities to interact securely and efficiently with blockchain functionalities.
+The Smart Rings Protocol - Contracts repository houses the Solidity contracts essential for the operation of the Smart Rings Protocol. These contracts are integral to the functioning of the protocol, providing various capabilities to interact securely and efficiently with blockchain functionalities.
 
 ## Features
 
